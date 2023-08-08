@@ -1,6 +1,6 @@
-# JaxGen: Generative AI with Jax
+# JxGen: Generative AI with Jax
 
-Welcome to JaxGen, a comprehensive repository dedicated to implementing foundational Generative AI models from scratch using Jax.
+Welcome to JxGen, a comprehensive repository dedicated to implementing foundational Generative AI models from scratch using Jax.
 
 # Models Covered
 - Variational Autoencoders (VAEs)
