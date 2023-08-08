@@ -1,0 +1,4 @@
+tensorflow-datasets
+tensorflow
+jaxlib
+jax
